@@ -68,8 +68,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "priya",
+      "email": "priya@gmail.com"
         }
       }
    }
@@ -90,8 +90,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "priya",
+      "email": "priya@gmail.com"
     }
   }
 }
@@ -113,8 +113,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "priya",
+      "email": "priya@gmail.com"
     }
   },
   {
@@ -125,8 +125,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "priya",
+      "email": "priya@gmail.com"
     }
   }
 ]
@@ -156,8 +156,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "priya",
+      "email": "priya@gmail.com"
     }
   }
 }
@@ -177,11 +177,4 @@ The Task Management System follows a client-server architecture, with a backend 
 ```
 ---------------------------------------------------------------------------------------
 ## video
-https://github.com/sandesh300/Task-Management-System/assets/92014891/f699a9a7-2f60-442c-8061-a076ad9dbfdb
-
-## MySQL Database Snapshot -
-### Task 
-![image](https://github.com/sandesh300/Task-Management-System/assets/92014891/1aa8dfb3-2ece-4fef-b8f1-4ae84c543a25)
-
-### User
-![image](https://github.com/sandesh300/Task-Management-System/assets/92014891/204a45c1-f436-4ac5-a6f4-3573b2121a5a)
+https://drive.google.com/file/d/1Vq7NtZs9qfGYfm_6CvIOCGxGKLduoD_t/view?usp=sharing
